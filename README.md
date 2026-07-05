@@ -22,7 +22,7 @@ real data in, a deployed app or a decision-ready analysis out.
 
 ## ⚽♟️ For fun (still data)
 
-- [chess-analytics](https://github.com/abasukanga4/chess-analytics) — 3,600 of my own Chess.com games, benchmarked against Elo expectation, plus a Stockfish post-game review layer
+- [chess-analytics](https://github.com/abasukanga4/chess-analytics) — 3,595 of my own Chess.com games, benchmarked against Elo expectation, plus a Stockfish post-game review layer
 - [fpl-optimiser](https://github.com/abasukanga4/fpl-optimiser) — the mathematically optimal FPL squad by integer linear programming over the live FPL API
 
 ---
