@@ -8,7 +8,6 @@ real data in, a deployed app or a decision-ready analysis out.
 | Project | What it does | Stack |
 |---|---|---|
 | ⭐ [jobpulse-uk](https://github.com/abasukanga4/jobpulse-uk) | UK data-job market tracker: API ingest → skill extraction → XGBoost salary model → live dashboard, with CI and a typed, tested codebase | Python, DuckDB, XGBoost, Streamlit |
-| [customer-churn-retention-targeting](https://github.com/abasukanga4/customer-churn-retention-targeting) | Churn prediction turned into a retention plan: calibrated models, lift analysis, and a 1-page business memo with £ impact | scikit-learn, pandas |
 | [job-market-intelligence](https://github.com/abasukanga4/job-market-intelligence) | 519 real UK job postings analysed into a decision memo: which data lane a career-changer should target | pandas, Jupyter |
 | [job-search-pipeline](https://github.com/abasukanga4/job-search-pipeline) | Data-engineering case study of my job-search tracker: idempotent ingestion, dedup, scoring — human-in-the-loop by design | Python, SQLite |
 
