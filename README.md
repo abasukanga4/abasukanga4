@@ -27,7 +27,7 @@ baselines.
 | Project | Focus |
 |---|---|
 | [NHS A&E analysis](https://github.com/abasukanga4/nhs-ae-sql) | SQL queries, reporting and communicating operational data |
-| [Chess analytics](https://github.com/abasukanga4/chess-analytics) | Personal game data, opening patterns and engine-assisted review |
+| [Chess Study Lab](https://github.com/abasukanga4/chess-analytics) · [Interactive report](https://abasukanga4.github.io/chess-analytics/) | Opening trees, statistical uncertainty, Stockfish review and playable study positions |
 | [FPL optimiser](https://github.com/abasukanga4/fpl-optimiser) | Fantasy football as a constrained optimisation problem |
 
 The chess and football projects are a different side of the same interest: using data to
