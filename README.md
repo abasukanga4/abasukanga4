@@ -1,30 +1,38 @@
 # Abas Ukanga
 
-**MSc Data Science (Loughborough) · Sheffield, UK.** I build data products end to end —
-real data in, a deployed app or a decision-ready analysis out.
+**MSc Data Science, Loughborough University · BEng Chemical Engineering, Swansea University**  
+Sheffield, UK · Interested in data analysis, data engineering and applied data science
 
-## Applied projects — real problems, quantified impact
+I’m interested in turning messy data into useful tools: collecting it reliably, testing the
+assumptions and making the result easy to explore. My engineering background shapes how I
+think about measurements, systems and the limits of a model.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [jobpulse-uk](https://github.com/abasukanga4/jobpulse-uk) | UK data-job market tracker: API ingest → skill extraction → XGBoost salary model → live dashboard, with CI and a typed, tested codebase | Python, DuckDB, XGBoost, Streamlit |
-| [job-market-intelligence](https://github.com/abasukanga4/job-market-intelligence) | 519 real UK job postings analysed into a decision memo: which data lane a career-changer should target | pandas, Jupyter |
-| [job-search-pipeline](https://github.com/abasukanga4/job-search-pipeline) | Data-engineering case study of my job-search tracker: idempotent ingestion, dedup, scoring — human-in-the-loop by design | Python, SQLite |
+## Start here: Carbon Window
 
-## Technique demos — fundamentals, done properly
+[**Carbon Window →**](https://github.com/abasukanga4/carbon-window)
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [hygiene-risk-app](https://github.com/abasukanga4/hygiene-risk-app) | Deployed ML: calibrated risk classifier over 64k UK food businesses, with SHAP explainability | scikit-learn, SHAP, Streamlit |
-| [fsa-hygiene](https://github.com/abasukanga4/fsa-hygiene) | Statistical inference: logistic regression with odds ratios, confounder control, and a data-leakage catch | statsmodels, pandas |
-| [retail-sales-dashboard](https://github.com/abasukanga4/retail-sales-dashboard) | BI: interactive dashboard over ~1M e-commerce transactions (£20.1M) | Streamlit, Plotly |
-| [resume-job-matcher](https://github.com/abasukanga4/resume-job-matcher) | NLP: semantic CV↔job matching, embeddings vs TF-IDF baseline | sentence-transformers |
+An electricity-carbon explorer for Great Britain. Find a lower-carbon time for a flexible
+activity, explore historical patterns and compare a machine-learning experiment with simple
+baselines.
 
-## For fun (still data)
+- Public API ingestion with validation, source hashes and recoverable refreshes.
+- SQLite storage, SQL reporting and an interactive Streamlit dashboard.
+- Chronological model evaluation, with the results and limitations visible.
+- A dated dataset and instructions to run the app locally without API credentials.
 
-- [chess-analytics](https://github.com/abasukanga4/chess-analytics) — 3,595 of my own Chess.com games, benchmarked against Elo expectation, plus a Stockfish post-game review layer
-- [fpl-optimiser](https://github.com/abasukanga4/fpl-optimiser) — the mathematically optimal FPL squad by integer linear programming over the live FPL API
+**Python · SQL · pandas · scikit-learn · Streamlit · testing**
 
----
+## More to explore
 
-abasukanga4@gmail.com · [LinkedIn](https://www.linkedin.com/in/abas-ukanga-520576226)
+| Project | Focus |
+|---|---|
+| [NHS A&E analysis](https://github.com/abasukanga4/nhs-ae-sql) | SQL queries, reporting and communicating operational data |
+| [Chess analytics](https://github.com/abasukanga4/chess-analytics) | Personal game data, opening patterns and engine-assisted review |
+| [FPL optimiser](https://github.com/abasukanga4/fpl-optimiser) | Fantasy football as a constrained optimisation problem |
+
+The chess and football projects are a different side of the same interest: using data to
+investigate questions beyond coursework and work.
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/abas-ukanga-520576226) · [Email](mailto:abasukanga4@gmail.com)
